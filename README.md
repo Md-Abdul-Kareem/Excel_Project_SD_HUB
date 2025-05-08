@@ -50,7 +50,7 @@ This project presents a comprehensive Excel-based dashboard that analyzes and vi
 1. Download or clone the repository
 
 
-2. Open the Excel file: Adidas_USA_Sales_Dashboard.xlsx
+2. Open the Excel file: Excel_Project_Adidas_sdhub.xlsx
 
 
 3. Use the slicers to filter by:
